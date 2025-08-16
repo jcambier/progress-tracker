@@ -1,0 +1,19 @@
+.insights-card {
+    width: 70%;
+}
+
+.statistic {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+    width: auto;
+}
+
+.statistic-text {
+    margin: 0;
+}
+
+.statistic-icon {
+    background-color: greenyellow;
+}

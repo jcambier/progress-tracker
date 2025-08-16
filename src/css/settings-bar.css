@@ -1,0 +1,22 @@
+.settings-bar {
+    width: 100%;
+    background-color: lightgray;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.unit-select-widget {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.settings-bar-element {
+    height: 60%;
+}

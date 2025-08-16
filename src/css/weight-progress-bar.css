@@ -1,0 +1,15 @@
+.weight-information-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.weight-row-entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.progress-information {
+    width: 80%;
+}

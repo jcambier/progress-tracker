@@ -1,0 +1,19 @@
+.daily-weight-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.daily-weight-form-item {
+    margin: 1rem;
+    width: 70%;
+}
+
+.daily-weight-form-button {
+    margin: 1rem;
+}
+
+.enter-weight-accordion {
+    width: 40%;
+}

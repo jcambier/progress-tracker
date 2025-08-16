@@ -1,0 +1,15 @@
+.initial-weight-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.initial-weight-form-item {
+    margin: 1rem;
+    width: 40%;
+}
+
+.initial-weight-form-button {
+    margin: 1rem;
+}
